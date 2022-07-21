@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&display=swap');
+
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding-top: 40px;
+
+}
+
+#mainFotoInst {
+    padding-left: 60px;
+    padding-bottom: 10px;
+}
+
+#mainFotoInst p {
+    padding-left: 30px;
+}
+
+#fotoPerfil {
+    width: 200px;
+    padding: 5px;
+    border: 2px solid #BB99DD;
+    border-radius: 150px;
+}
+
+.link {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 20px;
+    color: #BB99DD;
+}
+
+.bold {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 24px;
+    text-decoration: none;
+    text-align: center;
+    padding-left: 20px;
+    color: #BB99DD;
+}
+
+#gitHub {
+    border: 2px solid #BB99DD;
+    width: 300px;
+    height: 40px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#linkeding {
+    border: 2px solid #BB99DD;
+    width: 300px;
+    height: 40px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#youtube {
+    border: 2px solid #BB99DD;
+    width: 300px;
+    height: 40px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#facebook {
+    border: 2px solid #BB99DD;
+    width: 300px;
+    height: 40px;
+    padding-right: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footerLink {
+    padding-top: 35px;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    color: #BB99DD;
+    padding-left: 20px;
+    letter-spacing: 20px;
+}
+
+.footerLink a {
+    color: #BB99DD;
+}
